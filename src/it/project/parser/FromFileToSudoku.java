@@ -17,7 +17,7 @@ public class FromFileToSudoku
 	
 	/**
 	 * Static method which read a file and parse it
-	 * @param path The path of the .txt file
+	 * @param path The path of the .txt file 
 	 * @return return the matrix in Sudoku object
 	 */
 	public static Piece[][] fromFile(Path path) 
